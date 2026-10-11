@@ -4,40 +4,51 @@
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
      xmlns:podcast="https://podcastindex.org/namespace/1.0">
   <channel>
-    <title>REPLACE WITH PODCAST TITLE</title>
-    <link>REPLACE WITH YOUR PUBLIC SHOW OR LANDING-PAGE URL</link>
+    <title>Hauntings</title>
+    <link>https://www.ruiz-knott.com/hauntings</link>
     <language>en-us</language>
-    <description>REPLACE WITH A SHORT DESCRIPTION OF THE SHOW</description>
-    <itunes:author>REPLACE WITH HOST OR SHOW AUTHOR</itunes:author>
-    <itunes:summary>REPLACE WITH A SHORT DESCRIPTION OF THE SHOW</itunes:summary>
-    <itunes:explicit>false</itunes:explicit>
+    <description>Hauntings is a documentary audio project by Madeleine Lebovic and Iván Ruiz-Knott.
+
+We’re exploring stories about Christian Hell Houses (did they ever work?), the commercial side of haunted houses (who decides what’s trending in fear?), hearse conventions (where do hearses go when they’re decommissioned?), and other spooky, non-paranormal topics.
+
+We’re currently in production and seeking distribution partners. If you’d like to chat, give us a scare or email us at madeleine@lebovic.com and ivan@ruiz-knott.com.</description>
+    <itunes:author>Madeleine Lebovic and Iván Ruiz-Knott</itunes:author>
+    <itunes:owner>
+      <itunes:name>Madeleine Lebovic and Iván Ruiz-Knott</itunes:name>
+      <itunes:email>madeleine@lebovic.com</itunes:email>
+    </itunes:owner>
+    <itunes:summary>Hauntings is a documentary audio project by Madeleine Lebovic and Iván Ruiz-Knott.
+
+We’re exploring stories about Christian Hell Houses (did they ever work?), the commercial side of haunted houses (who decides what’s trending in fear?), hearse conventions (where do hearses go when they’re decommissioned?), and other spooky, non-paranormal topics.
+
+We’re currently in production and seeking distribution partners. If you’d like to chat, give us a scare or email us at madeleine@lebovic.com and ivan@ruiz-knott.com.</itunes:summary>
+    <itunes:explicit>true</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Documentary"/>
+    </itunes:category>
     <itunes:image href="https://hauntings-show.github.io/cover.jpg"/>
     <image>
       <url>https://hauntings-show.github.io/cover.jpg</url>
-      <title>REPLACE WITH PODCAST TITLE</title>
-      <link>REPLACE WITH YOUR PUBLIC SHOW OR LANDING-PAGE URL</link>
+      <title>Hauntings</title>
+      <link>https://www.ruiz-knott.com/hauntings</link>
     </image>
 
-    <!--
-      Keep this stable after publishing. Generate a UUID once and replace the
-      placeholder before submitting the feed to podcast directories.
-    -->
-    <podcast:guid>REPLACE-WITH-A-STABLE-UNIQUE-SHOW-ID</podcast:guid>
+    <!-- Never change this show ID or any episode <guid> after publishing. -->
+    <podcast:guid>5158b691-d91d-4df8-adf8-ccbf7984f5e7</podcast:guid>
 
-    <!-- Replace this draft episode's placeholders when the MP3 is ready. -->
     <item>
-      <title>REPLACE WITH EPISODE TITLE</title>
-      <description>REPLACE WITH EPISODE DESCRIPTION</description>
-      <itunes:summary>REPLACE WITH EPISODE DESCRIPTION</itunes:summary>
+      <title>Hell House</title>
+      <description>In the 1990s and early 2000s, churches across the country put on Hell Houses—haunted houses designed to convert people to Christianity. A friend of ours was once tricked into attending one, and was left with so many questions. Decades later, we’re getting her some answers.</description>
+      <itunes:summary>In the 1990s and early 2000s, churches across the country put on Hell Houses—haunted houses designed to convert people to Christianity. A friend of ours was once tricked into attending one, and was left with so many questions. Decades later, we’re getting her some answers.</itunes:summary>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
-      <itunes:explicit>false</itunes:explicit>
-      <guid isPermaLink="false">REPLACE-WITH-A-STABLE-UNIQUE-EPISODE-ID</guid>
-      <pubDate>REPLACE WITH PUBLICATION DATE, e.g. Sun, 11 Oct 2026 12:00:00 -0600</pubDate>
+      <itunes:explicit>true</itunes:explicit>
+      <guid isPermaLink="false">a98ed817-7d12-4e56-9406-2511e065f119</guid>
+      <pubDate>Sun, 11 Oct 2026 18:00:00 -0600</pubDate>
       <enclosure
         url="https://hauntings-show.github.io/episode-1.mp3"
-        length="REPLACE_WITH_FILE_SIZE_IN_BYTES"
+        length="65662096"
         type="audio/mpeg"/>
     </item>
   </channel>
