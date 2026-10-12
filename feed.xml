@@ -2,9 +2,11 @@
 <rss version="2.0"
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:content="http://purl.org/rss/1.0/modules/content/"
-     xmlns:podcast="https://podcastindex.org/namespace/1.0">
+     xmlns:podcast="https://podcastindex.org/namespace/1.0"
+     xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hauntings</title>
+    <atom:link href="https://hauntings-show.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <link>https://www.ruiz-knott.com/hauntings</link>
     <language>en-us</language>
     <description>Hauntings is a documentary audio project by Madeleine Lebovic and Iván Ruiz-Knott.
@@ -39,8 +41,10 @@ We’re currently in production and seeking distribution partners. If you’d li
 
     <item>
       <title>Hell House</title>
+      <link>https://www.ruiz-knott.com/hauntings</link>
       <description>In the 1990s and early 2000s, churches across the country put on Hell Houses—haunted houses designed to convert people to Christianity. A friend of ours was once tricked into attending one, and was left with so many questions. Decades later, we’re getting her some answers.</description>
       <itunes:summary>In the 1990s and early 2000s, churches across the country put on Hell Houses—haunted houses designed to convert people to Christianity. A friend of ours was once tricked into attending one, and was left with so many questions. Decades later, we’re getting her some answers.</itunes:summary>
+      <itunes:duration>2728</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
