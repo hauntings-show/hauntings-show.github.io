@@ -44,15 +44,15 @@ We’re currently in production and seeking distribution partners. If you’d li
       <link>https://www.ruiz-knott.com/hauntings</link>
       <description>In the 1990s and early 2000s, churches across the country put on Hell Houses—haunted houses designed to convert people to Christianity. A friend of ours was once tricked into attending one, and was left with so many questions. Decades later, we’re getting her some answers.</description>
       <itunes:summary>In the 1990s and early 2000s, churches across the country put on Hell Houses—haunted houses designed to convert people to Christianity. A friend of ours was once tricked into attending one, and was left with so many questions. Decades later, we’re getting her some answers.</itunes:summary>
-      <itunes:duration>2728</itunes:duration>
+      <itunes:duration>2663</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
       <guid isPermaLink="false">a98ed817-7d12-4e56-9406-2511e065f119</guid>
-      <pubDate>Sun, 11 Oct 2026 18:00:00 -0600</pubDate>
+      <pubDate>Tue, 13 Oct 2026 18:00:00 -0600</pubDate>
       <enclosure
-        url="https://hauntings-show.github.io/episode-1.mp3"
-        length="65662096"
+        url="https://hauntings-show.github.io/261013-Hauntings-HellHouse.mp3"
+        length="63916244"
         type="audio/mpeg"/>
     </item>
   </channel>

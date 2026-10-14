@@ -6,14 +6,14 @@ episode audio through GitHub Pages.
 ## Planned public URLs
 
 - Feed: https://hauntings-show.github.io/feed.xml
-- Episode 1 audio: https://hauntings-show.github.io/episode-1.mp3
+- Episode 1 audio: https://hauntings-show.github.io/261013-Hauntings-HellHouse.mp3
 - Cover art: https://hauntings-show.github.io/cover.jpg
 
 ## Files
 
 - `feed.xml` — RSS 2.0 feed with Apple Podcasts-compatible iTunes metadata.
 - `cover.jpg` — add the final square podcast cover art here.
-- `episode-1.mp3` — add the final MP3 here when it is ready.
+- `261013-Hauntings-HellHouse.mp3` — Episode 1 (Hell House) audio.
 - `.nojekyll` — disables Jekyll processing for this static site.
 
 ## Before submitting the feed to directories
@@ -21,7 +21,7 @@ episode audio through GitHub Pages.
 1. Replace every `REPLACE...` placeholder in `feed.xml`.
 2. Add `cover.jpg`. Use square JPG or PNG artwork, ideally 3000 × 3000 px
    (Apple accepts 1400 × 1400 through 3000 × 3000 px for RSS artwork).
-3. Add `episode-1.mp3` and update the enclosure's `length` to the exact file
+3. Add the episode MP3 and update the enclosure's `length` to the exact file
    size in bytes. Keep the URL exactly aligned with the uploaded filename.
 4. Replace the example publication date with the real date/time in RFC 2822
    format, including timezone.
