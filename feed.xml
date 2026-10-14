@@ -6,8 +6,8 @@
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hauntings</title>
-    <atom:link href="https://hauntings-show.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <link>https://www.ruiz-knott.com/hauntings</link>
+    <atom:link href="https://feed.hauntingsshow.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://hauntingsshow.com</link>
     <language>en-us</language>
     <description>Hauntings is a documentary audio project by Madeleine Lebovic and Iván Ruiz-Knott.
 
@@ -29,11 +29,11 @@ We’re currently in production and seeking distribution partners. If you’d li
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Documentary"/>
     </itunes:category>
-    <itunes:image href="https://hauntings-show.github.io/cover.jpg"/>
+    <itunes:image href="https://feed.hauntingsshow.com/cover.jpg"/>
     <image>
-      <url>https://hauntings-show.github.io/cover.jpg</url>
+      <url>https://feed.hauntingsshow.com/cover.jpg</url>
       <title>Hauntings</title>
-      <link>https://www.ruiz-knott.com/hauntings</link>
+      <link>https://hauntingsshow.com</link>
     </image>
 
     <!-- Never change this show ID or any episode <guid> after publishing. -->
@@ -41,17 +41,18 @@ We’re currently in production and seeking distribution partners. If you’d li
 
     <item>
       <title>Hell House</title>
-      <link>https://www.ruiz-knott.com/hauntings</link>
+      <link>https://hauntingsshow.com</link>
       <description>In the 1990s and early 2000s, churches across the country put on Hell Houses—haunted houses designed to convert people to Christianity. A friend of ours was once tricked into attending one, and was left with so many questions. Decades later, we’re getting her some answers.</description>
       <itunes:summary>In the 1990s and early 2000s, churches across the country put on Hell Houses—haunted houses designed to convert people to Christianity. A friend of ours was once tricked into attending one, and was left with so many questions. Decades later, we’re getting her some answers.</itunes:summary>
       <itunes:duration>2663</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>true</itunes:explicit>
+      <itunes:image href="https://feed.hauntingsshow.com/261013-Hauntings-HellHouse-cover.jpg"/>
       <guid isPermaLink="false">a98ed817-7d12-4e56-9406-2511e065f119</guid>
       <pubDate>Tue, 13 Oct 2026 18:00:00 -0600</pubDate>
       <enclosure
-        url="https://hauntings-show.github.io/261013-Hauntings-HellHouse.mp3"
+        url="https://feed.hauntingsshow.com/261013-Hauntings-HellHouse.mp3"
         length="63916244"
         type="audio/mpeg"/>
     </item>
